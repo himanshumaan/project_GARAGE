@@ -1,0 +1,37 @@
+body {
+  overflow-x: hidden;
+}
+
+:root {
+  --tiffany-blue: #17c3b2;
+  --brick-red: #d44d5c;
+  --yellow-orange: #F8B551;
+  --space-cadet: #1B1D39;
+}
+
+.body {
+  height: fit-content;
+  min-height: 100vh;
+  background-color: var(--space-cadet);
+  padding-bottom: 1px;
+}
+
+.main {
+  background-color: var(--space-cadet);
+  width: 1536px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  z-index: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  flex-shrink: 0;
+  min-height: 0;
+  min-width: 0;
+}
