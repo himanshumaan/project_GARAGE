@@ -28,11 +28,4 @@ Keeping speed and efficiency in mind, the following are the limitations of the t
 - [p5.js](https://p5js.org/) - A JavaScript library for creative coding. Written with p5.js 1.4.1
 
 - [Rando.js](https://randojs.com/) - A lightweight library for fast and cryptographically strong random number generation
-
-## Author
-
-[Yeluri Ketan](https://github.com/YeluriKetan)
-
-## Contributors
-
-[Sravanth Chowdary Potluri](https://github.com/parzival979) - Generation algorithm for k unique values in a given range - [PR](https://github.com/YeluriKetan/project-GARAGE/pull/4)
+- 
